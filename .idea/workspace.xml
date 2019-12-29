@@ -32,7 +32,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/JavaAcademy_Avenga_GrzegorzFus/zadanieRekrutacyjneZdzalik" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -60,7 +60,7 @@
   <component name="RunManager" selected="Application.Main">
     <configuration name="Course" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="recruitmentTask.core.Course" />
-      <module name="zadanieRekrutacyjne" />
+      <module name="transportOfLaptops" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="recruitmentTask.fileReader.*" />
@@ -73,7 +73,7 @@
     </configuration>
     <configuration name="CourseSolver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="recruitmentTask.solver.CourseSolver" />
-      <module name="zadanieRekrutacyjne" />
+      <module name="transportOfLaptops" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="recruitmentTask.solver.*" />
@@ -86,7 +86,7 @@
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="recruitmentTask.Main" />
-      <module name="zadanieRekrutacyjne" />
+      <module name="transportOfLaptops" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="recruitmentTask.fileReader.*" />
@@ -122,6 +122,8 @@
       <workItem from="1577052461033" duration="133000" />
       <workItem from="1577052891421" duration="117000" />
       <workItem from="1577563875991" duration="437000" />
+      <workItem from="1577643646317" duration="34000" />
+      <workItem from="1577643787152" duration="247000" />
     </task>
     <servers />
   </component>
@@ -133,7 +135,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
